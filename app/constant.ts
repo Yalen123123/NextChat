@@ -88,10 +88,10 @@ export enum FileName {
 }
 
 export enum StoreKey {
-  Chat = "my-novel-ai-v1",
+  Chat = "my-novel-ai-v2",
   Plugin = "chat-next-web-plugin",
   Access = "access-control",
-  Config = "app-config",
+  Config = "my-novel-config-v2",
   Mask = "mask-store",
   Prompt = "prompt-store",
   Update = "chat-update",
